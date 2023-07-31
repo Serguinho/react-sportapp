@@ -8,7 +8,7 @@ import { GifGrid } from "./Components/GifGrid2";
 function GifExpertApp (){
 
 
-    const [categories, setCategories] = useState(['Danny']);
+    const [categories, setCategories] = useState(['Dembele']);
 
     // const handleAdd=()=>{
     //     setCategories([...categories,'Daysi']);
